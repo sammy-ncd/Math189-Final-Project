@@ -1,0 +1,2 @@
+*.ipynb linguist-language=JSON 
+*.ipynb diff=nodiff 
